@@ -1,0 +1,45 @@
+    1  cd
+    2  cd \C\Users\Desktop\Git
+    3  cd /C/Users/ACER/Desktop/Git
+    4  git clone
+    5  cd /C/Users/ACER/Desktop/Git
+    6  git clone https://github.com/limon4ella2013-dot/HW_10.git
+    7  cd /C/Users/ACER/Desktop/Git/HW_10
+    8  get touch text_ignore.txt
+    9  git touch text_ignore.txt
+   10  touch text_ignore.txt
+   11  text_ignore.txt  gitignore.txt
+   12  cd text_ignore.txt  gitignore.txt
+   13  gitignore.txt
+   14  cd  gitignore.txt
+   15  nano .gitignore
+   16  cd /C/Users/ACER/Desktop/Git
+   17  git clone https://github.com/limon4ella2013-dot/HW_10.git
+   18  cd /C/Users/ACER/Desktop/Git
+   19  git clone https://github.com/limon4ella2013-dot/HW_10.git
+   20  cd /C/Users/ACER/Desktop/Git/HW_10.git
+   21  cd /C/Users/ACER/Desktop/Git/HW_10
+   22  touch text_ignore.txt
+   23  nano .gitignore
+   24  text_ignore.txt
+   25  git status text_ignore.txt
+   26  git add
+   27  git add .
+   28  git commit -m "text_ignore.txt was added to .gitignore"
+   29  touch main_test.txt
+   30  git add .
+   31  git commit -m "main_test.txt"
+   32  git checkout -b develop
+   33  touch develop_test.txt
+   34  git add .
+   35  git commit -m "develop_test.txt"
+   36  nano develop_test.txt filejust a small change
+   37  nano .just a small change
+   38  git status
+   39  git add .
+   40  git commit
+   41  git checkout main
+   42  да
+   43  git merge develop
+   44  git log
+   45  history > command_list.csv
